@@ -1,0 +1,23 @@
+.DS_Store
+
+# Dependencies
+Backend/node_modules
+Frontend/node_modules
+
+# Environment
+Backend/.env
+Frontend/.env
+Frontend/.env.local
+
+# Database
+Backend/src/database/database.sqlite
+
+# Build
+Frontend/dist
+Frontend/build
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode
